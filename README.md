@@ -1,1 +1,1 @@
-https://ALMAZ1K.github.io/clevertec/
+https://almaz1k.github.io/clevertec/
